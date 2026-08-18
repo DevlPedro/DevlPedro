@@ -1,4 +1,4 @@
-Olá, eu sou Pedro Henrique 👋
+# Olá, eu sou Pedro Henrique 👋
 
 Sou profissional de Tecnologia da Informação, formado em Gestão da Tecnologia da Informação e atualmente estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
